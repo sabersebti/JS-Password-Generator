@@ -21,4 +21,8 @@ A simple password generator that allows the user to customize the length and cha
 - JavaScript
 
 ## Contact
+<<<<<<< HEAD
 For any questions or suggestions, feel free to contact me at [your email address]
+=======
+For any questions or suggestions, feel free to contact me at [sebti.saber1@gmail.com]
+>>>>>>> d6448090fa9b3715ea96b24335a5a41c5a8a2f39
